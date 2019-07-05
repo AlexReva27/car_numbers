@@ -24,4 +24,4 @@ def exit():
         if keyboard.is_pressed('space'):        
             funс()
 
-start = funс()
+funс()
