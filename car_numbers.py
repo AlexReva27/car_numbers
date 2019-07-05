@@ -24,7 +24,7 @@ def ex():
         if keyboard.is_pressed('Esc'):
             break
         if keyboard.is_pressed('space'):
-            funс()
+            func()
 
 
 func()
