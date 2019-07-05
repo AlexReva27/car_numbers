@@ -1,4 +1,4 @@
-import os, keyboard, unittest
+import os, keyboard
 
 file = open("base.txt").read()
 
