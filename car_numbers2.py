@@ -40,5 +40,3 @@ def start():
 
 
 start()
-
-
